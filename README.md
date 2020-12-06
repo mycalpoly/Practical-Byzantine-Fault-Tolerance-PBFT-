@@ -1,4 +1,4 @@
-A simple PBFT protocol over HTTP, using python3 asyncio/aiohttp. This is just a proof of concept implementation.
+A simple PBFT protocol over HTTP, using python3 asyncio/aiohttp. This repo was forked from CyHsiung for use in our CSC569 project
 
 ## Configuration
 A `pbft.yaml` config file is needed for the nodes to run. A sample is as follows:
